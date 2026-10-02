@@ -60,9 +60,3 @@ src/
 ## 🌐 API Integration
 
 The frontend connects to a robust backend service (`https://aug-backpack.runasp.net/api/v1`) to fetch structural data (Majors, Levels, Semesters, Subjects) and the actual educational content.
-
-## 📞 Contact
-
-For support and inquiries:
-- **Email**: jebrilaabed@gmail.com
-- **WhatsApp**: +972 56-767-7406
