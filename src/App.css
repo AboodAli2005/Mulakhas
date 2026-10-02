@@ -1,0 +1,45 @@
+body {
+  direction: rtl;
+  font-family: cairo !important;
+}
+
+@font-face {
+  font-family: cairo;
+  src: url(/public/fonts/Cairo-ExtraBold.ttf);
+  font-weight: 800;
+}
+@font-face {
+  font-family: cairo;
+  src: url(/public/fonts/Cairo-Bold.ttf);
+  font-weight: 700;
+}
+@font-face {
+  font-family: cairo;
+  src: url(/public/fonts/Cairo-ExtraLight.ttf);
+  font-weight: 100;
+}
+@font-face {
+  font-family: cairo;
+  src: url(/public/fonts/Cairo-Light.ttf);
+  font-weight: 200;
+}
+@font-face {
+  font-family: cairo;
+  src: url(/public/fonts/Cairo-Black.ttf);
+  font-weight: 900;
+}
+@font-face {
+  font-family: cairo;
+  src: url(/public/fonts/Cairo-Medium.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: cairo;
+  src: url(/public/fonts/Cairo-Regular.ttf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: cairo;
+  src: url(/public/fonts/Cairo-SemiBold.ttf);
+  font-weight: 600;
+}
